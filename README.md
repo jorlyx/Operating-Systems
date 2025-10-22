@@ -1,5 +1,5 @@
 Operating Systems Coursework — Task A & Task B  
-
+![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 This is a university coursework project i did in my First Year therefore i cannot upload the code as it might be used in future coursework
 
 Task A: Command-line file operations in Java (re-creating UNIX utilities).  

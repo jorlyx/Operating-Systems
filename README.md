@@ -142,7 +142,7 @@ javac -d out $(find src -name "*.java")
 java -cp out ProcessScheduler.Main
 
 Example output:
-P01: Running
+>> P01: Running
 P01: Complete, Context Switches: 0, Output: Sum is 9, Execution Time: 70ms
 P02: Running
 P02: Quantum exceeded
